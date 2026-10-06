@@ -1,16 +1,47 @@
-## Hi there 👋
+# Kevyn Morais
 
-<!--
-**KevynMorais/KevynMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação focado em desenvolvimento web. Estudo na prática, criando projetos pequenos e documentando cada etapa aqui no GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- **Foco atual:** HTML, CSS e JavaScript
+- **Estudando:** Git e GitHub (versionamento, branches e pull requests)
+- **Objetivo:** atuar como desenvolvedor front-end
+- **Localização:** Brasil
+- **Contato:** seu-email@exemplo.com
+
+---
+
+## Tecnologias
+
+| Área | Ferramentas |
+| ---- | ----------- |
+| Front-end | HTML5, CSS3, JavaScript |
+| Versionamento | Git, GitHub |
+| Editor | Visual Studio Code |
+
+---
+
+## Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KevynMorais&layout=donut&hide_border=true&langs_count=6)
+
+O gráfico é gerado automaticamente a partir dos seus repositórios públicos e se atualiza conforme você publica novos projetos.
+
+---
+
+## Projetos
+
+| Projeto | O que é | Tecnologias |
+| ------- | ------- | ----------- |
+| [projeto-1](https://github.com/KevynMorais/projeto-1) | Página web criada para praticar Git e GitHub, com integração de WhatsApp e Mercado Pago | HTML, CSS, JavaScript |
+
+---
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)
+- [WhatsApp](https://wa.me/55SEUNUMERO)
+- [E-mail](mailto:seu-email@exemplo.com)
