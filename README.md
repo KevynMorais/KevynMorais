@@ -26,7 +26,11 @@ Desenvolvedor em formação focado em desenvolvimento web. Estudo na prática, c
 
 ## Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KevynMorais&layout=donut&hide_border=true&langs_count=6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynMorais&layout=donut&hide_border=true&langs_count=6&theme=transparent&title_color=ffffff&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynMorais&layout=donut&hide_border=true&langs_count=6&theme=transparent&title_color=24292f&text_color=57606a">
+  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynMorais&layout=donut&hide_border=true&langs_count=6&theme=transparent&title_color=24292f&text_color=57606a">
+</picture>
 
 O gráfico é gerado automaticamente a partir dos seus repositórios públicos e se atualiza conforme você publica novos projetos.
 
