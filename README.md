@@ -10,7 +10,7 @@ Desenvolvedor em formação focado em desenvolvimento web. Estudo na prática, c
 - **Estudando:** Git e GitHub (versionamento, branches e pull requests)
 - **Objetivo:** atuar como desenvolvedor front-end
 - **Localização:** Brasil
-- **Contato:** kevynmorais721@exemplo.com
+- **Contato:** kevynmorais721@gmail.com
 
 ---
 
