@@ -46,6 +46,6 @@ O gráfico é gerado automaticamente a partir dos seus repositórios públicos e
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)
+- [LinkedIn](https://www.linkedin.com/in/kevyn-morais-1ba330291/)
 - [WhatsApp](https://wa.me/55SEUNUMERO)
 - [E-mail](mailto:seu-email@exemplo.com)
