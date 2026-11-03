@@ -88,7 +88,7 @@ Na 6ª edição da WECTI, a **Hackathonicos conquistou o 2º lugar** no hackatho
 
 | Projeto | O que é | Tecnologias |
 | ------- | ------- | ----------- |
-| [Batuque](https://github.com/KevynMorais/ADICIONAR-REPOSITORIO) | Site avaliador de músicas e álbuns, que aproxima amantes de música e de vários gêneros, com resenhas, biblioteca de álbuns e estatísticas de escuta | HTML, CSS, JavaScript |
+| [Batuque](https://github.com/gioribeirro/Sistema-logico-de-caixa-eletronico) | Projeto em equipe: site avaliador de músicas e álbuns, que aproxima amantes de música e de vários gêneros, com resenhas, biblioteca de álbuns e estatísticas de escuta. Atuo como contribuidor e desenvolvedor front-end | HTML, CSS, JavaScript |
 
 **Batuque: como eu atuo**
 - **Atuo como desenvolvedor front-end** da equipe, cuidando da interface do site
