@@ -14,33 +14,38 @@
 
 ## 👋 Sobre mim
 
-Tenho 19 anos, moro em São Paulo e **curso Ciência da Computação na UNICID**. Meu foco atual é o **desenvolvimento front-end**: construo interfaces, estudo na prática e registro cada etapa dessa jornada aqui no GitHub. Busco meu primeiro **estágio em front-end** e pretendo avançar para o back-end em seguida.
+Tenho 19 anos, moro em São Paulo e **curso Ciência da Computação na UNICID**. Meu foco é o **desenvolvimento front-end**: gosto de transformar ideias em interfaces, aprender na prática e registrar cada etapa dessa jornada aqui no GitHub. Busco meu primeiro **estágio em front-end** e pretendo avançar para o back-end em seguida.
 
 - 🎯 **Objetivo:** conquistar um estágio em desenvolvimento front-end
 - 🔭 **Estudo agora:** JavaScript, Git e GitHub (branches e pull requests) e modelagem de banco de dados
 - 🚀 **Próximos passos:** React e TypeScript, depois back-end
+- 🔁 **Rotina:** pratico quase todos os dias e acompanho minha evolução pelos commits
+- 🤝 **Jeito de trabalhar:** aprendo rápido com o time, peço feedback e ajusto o caminho
 - 🌍 **Meta de longo prazo:** trabalhar remotamente, em projetos internacionais
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Linguagens que mais uso**
+Meu foco é o front-end, e é nele que concentro minhas ferramentas.
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="52" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="52" alt="Java" /><br/><sub><b>Java</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="52" alt="C" /><br/><sub><b>C</b></sub></td>
-  </tr>
-</table>
-
-**Front-end e ferramentas do dia a dia**
+**Front-end (meu dia a dia)**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="HTML, CSS, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" />
 </p>
+
+- **HTML5 e CSS3** para estruturar e estilizar as interfaces
+- **JavaScript** para dar comportamento e interação às páginas
+
+**Versionamento e ambiente de trabalho**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
+</p>
+
+- **Git e GitHub** para versionar o código e colaborar com a equipe
+- **VS Code** como editor
 
 **Próximos destinos (em estudo)**
 
@@ -48,13 +53,18 @@ Tenho 19 anos, moro em São Paulo e **curso Ciência da Computação na UNICID**
   <img src="https://skillicons.dev/icons?i=react,ts" alt="React e TypeScript" />
 </p>
 
+- **React** para construir interfaces em componentes
+- **TypeScript** para escrever JavaScript mais seguro e fácil de manter
+
+> Também tenho conhecimento em outras linguagens (C, Java e Python), que reforçam minha base de lógica de programação, mas é no JavaScript que concentro meu foco.
+
 ---
 
 ## 🥈 Hackathon WECTI 2026 (UNICID) — 2º lugar
 
 **Desenvolvedor back-end · Equipe Hackathonicos**
 
-Na 6ª edição da WECTI, a **Hackathonicos conquistou o 2º lugar** no hackathon. Participei da equipe como **desenvolvedor back-end**, responsável pelo banco de dados e pela lógica do processo de uma solução para um problema real: a **gestão de catálogo e estoque de lojistas que vendem em vários marketplaces** (como Mercado Livre, Shopee, Magalu e TikTok Shop).
+Na 6ª edição da WECTI, a **Hackathonicos conquistou o 2º lugar** no hackathon, e tenho muito orgulho de ter feito parte dessa equipe. Atuei como **desenvolvedor back-end**, responsável pelo banco de dados e pela lógica do processo de uma solução para um problema real: a **gestão de catálogo e estoque de lojistas que vendem em vários marketplaces** (como Mercado Livre, Shopee, Magalu e TikTok Shop).
 
 **O que eu fiz**
 - **Atuei no back-end** da solução, estruturando o banco de dados e a lógica que sustenta o sistema
@@ -68,30 +78,23 @@ Na 6ª edição da WECTI, a **Hackathonicos conquistou o 2º lugar** no hackatho
 - Fui avaliado por critérios técnicos e de negócio: **aderência à dor, inovação, exequibilidade técnica (MVP funcional) e qualidade do pitch**
 - Pratiquei o **trabalho sob prazo curto** e a **divisão de responsabilidades** de uma equipe de desenvolvimento
 - Tive **contato direto com mentores** e com um processo seletivo e de avaliação parecido com o de um ambiente profissional
-- Ganhei um **projeto colaborativo real no GitHub**, com a prática de versionamento em equipe
+- Exercitei o **versionamento em equipe** com Git e GitHub em um repositório colaborativo
+
+> 💬 O código do projeto fica em um repositório privado da equipe. Terei prazer em contar mais sobre a solução e sobre a minha participação em uma conversa.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 | Projeto | O que é | Tecnologias |
 | ------- | ------- | ----------- |
-| [Batuque](https://github.com/KevynMorais/ADICIONAR-REPOSITORIO) | Site avaliador de músicas e álbuns, com resenhas, prévias de 30 segundos e estatísticas de escuta | HTML, CSS, JavaScript, API do iTunes |
-| [Hackathon WECTI 2026 · 2º lugar](https://github.com/ADICIONAR-DONO/ADICIONAR-REPOSITORIO) | Sistema web para centralizar o cadastro e o estoque de lojistas em vários marketplaces, desenvolvido em equipe (colaborador, back-end) | ADICIONAR-TECNOLOGIAS |
+| [Batuque](https://github.com/KevynMorais/ADICIONAR-REPOSITORIO) | Site avaliador de músicas e álbuns, que aproxima amantes de música e de vários gêneros, com resenhas, biblioteca de álbuns e estatísticas de escuta | HTML, CSS, JavaScript |
 
-**Batuque: o que eu fiz**
-- **Desenvolvi o front-end** em HTML, CSS e JavaScript, com arquivos separados e fiel ao wireframe da equipe
-- **Integrei a API do iTunes** para pesquisar artistas, ouvir prévias e exibir estatísticas
-- **Implementei animações de hover e transições** para dar vida à interface
-- **Colaborei com a equipe** a partir de wireframes e de commits em branches
-
----
-
-## 🧪 Outros projetos
-
-- **Sistema lógico de caixa eletrônico (C):** implementei a lógica de saque, que valida o valor e o decompõe em cédulas de R$ 100 a R$ 2 e moedas de R$ 1
-- **Calculadora CLI (Python):** estruturei o projeto em classes e pacotes separados, no meu primeiro projeto de portfólio
-- **Fashion (HTML e CSS):** construí uma página de moda com header, seções de modelos, contato e mapa
+**Batuque: como eu atuo**
+- **Atuo como desenvolvedor front-end** da equipe, cuidando da interface do site
+- **Desenvolvo as telas** em HTML, CSS e JavaScript, em arquivos separados, seguindo o wireframe do time
+- **Aprendo na prática** o fluxo de trabalho em equipe com Git e GitHub
+- **Evoluo o código** a cada atualização, buscando manter a interface consistente e organizada
 
 ---
 
